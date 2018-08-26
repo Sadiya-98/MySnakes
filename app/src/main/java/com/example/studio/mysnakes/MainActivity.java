@@ -11,7 +11,7 @@ import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
 
-
+// accessing images from drawable folder in resource directory.
     int[] myDices = {
             R.drawable.one,
             R.drawable.two,
